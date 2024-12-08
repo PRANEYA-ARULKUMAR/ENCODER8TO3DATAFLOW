@@ -65,7 +65,9 @@ RegisterNumber:24900343
 
 ![83wf](https://github.com/user-attachments/assets/ece31310-ba61-428e-8911-b3027ed33b1f)
 
-**RESULTS**
+**RESULT**
+
+Thus the 8*3 Encoder is implemented using verilog and validated its functionality successfully.
 
 
 
