@@ -67,7 +67,7 @@ RegisterNumber:24900343
 
 **RESULT**
 
-Thus the 8*3 Encoder is implemented using verilog and validated its functionality successfully.
+Thus the 8*3 Encoder is implemented using verilog and its functionality validated successfully.
 
 
 
